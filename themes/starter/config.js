@@ -243,6 +243,12 @@ const CONFIG = {
       IMAGE_WHITE: '/images/starter/brands/tailgrids-white.svg',
       URL: '"https://tailgrids.com/',
       TITLE: 'tailgrids'
+    },
+    {
+      IMAGE: '/images/starter/brands/hong.png',
+      IMAGE_WHITE: '/images/starter/brands/hong.png',
+      URL: '/',
+      TITLE: '宏心国际'
     }
   ],
 
